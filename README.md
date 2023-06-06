@@ -1,4 +1,4 @@
-&bg_color = 45, 00ffad, 720c50, 020024
+&bg_color = 45deg, #00ffad, #720c50, #020024
 
 # Hi, everyone 👋
 My name is Danil. And I am a Full-Stack developer.
