@@ -11,7 +11,7 @@ Retail (internal system to manage the orders from vendors)
 Financial Institutions (internal bank aplication)
 Public Institutions (internal system to manage applications)
 
-# My skills:
+# 🛠 Tech Stack:
 - Javascript (ES6+), Typescript.
 
 - Repos to visit: Typescript examples, Simple chat on Vanilla JS
