@@ -12,7 +12,7 @@ Financial Institutions (internal bank aplication)
 Public Institutions (internal system to manage applications)
 
 # My skills:
--[#ff0]'Javascript (ES6+), Typescript.'
+- ![#ff0]'Javascript (ES6+), Typescript.'
 
 Repos to visit: Typescript examples, Simple chat on Vanilla JS
 
