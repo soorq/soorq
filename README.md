@@ -31,4 +31,4 @@ Public Institutions (internal system to manage applications)
 
 # ⚙️  GitHub Analytics 
 
-[Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[Stats](https://github-readme-stats.vercel.app/api?username=soorq&show_icons=true&theme=radical)
