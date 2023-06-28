@@ -16,7 +16,7 @@ Public Institutions (internal system to manage applications)
 
 - React, Redux, MobX, NextJS, Gatsby, GraphQL (Apollo)
 
-- NodeJS, Express, NestJS, GraphQL
+- NodeJS, Express, ReactJs
 
 - MongoDB, PostgresSQL
 
