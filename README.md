@@ -14,13 +14,9 @@ Public Institutions (internal system to manage applications)
 # 🛠 Tech Stack:
 - Javascript (ES6+), Typescript.
 
-- Repos to visit: Typescript examples, Simple chat on Vanilla JS
-
 - React, Redux, MobX, NextJS, Gatsby, GraphQL (Apollo)
 
 - NodeJS, Express, NestJS, GraphQL
-
-- Repos to visit: Express REST
 
 - MongoDB, PostgresSQL
 
