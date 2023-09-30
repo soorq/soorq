@@ -4,7 +4,6 @@ My name is Danil. And I am a Full-Stack developer.
 I love programming and creating something that matters. I try to be aware of the most trendy and modern Full-Stack technologies and do not stop learning and discovering new features every day.
 
 # 👨🏻‍💻 My experience:
-I've been working as JavaScript Developer since 2016 in different business domains:
 
 ECommerce (online store)
 Retail (internal system to manage the orders from vendors)
