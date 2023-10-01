@@ -1,9 +1,643 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T20:52:05.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.0.0" etag="I1iXS9bYVdy6W6VruOm2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T21:58:39.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="TNUqJDodcdO3Ab8qZ2CD" version="22.0.0" type="github">
   <diagram name="Страница — 1" id="b5F7yGfdC8SW0DSV0_Y1">
-    <mxGraphModel>
+    <mxGraphModel dx="2808" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d3SblMkeDOtAIFovuhBY-1" value="&lt;div&gt;Front-end&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="230" as="sourcePoint" />
+            <mxPoint x="220" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-4" value="&lt;div&gt;Как работает&amp;nbsp; интернет&lt;/div&gt;&lt;div&gt;и браузер&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-4" target="d3SblMkeDOtAIFovuhBY-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="230" as="sourcePoint" />
+            <mxPoint x="460" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-7" value="&lt;div&gt;Базовое знание доменов&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-4" target="d3SblMkeDOtAIFovuhBY-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="348" y="270" as="sourcePoint" />
+            <mxPoint x="460" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-10" value="Что такое http" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-11" value="Что такое хостинги" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.036;entryY=0.459;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-4" target="d3SblMkeDOtAIFovuhBY-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="410" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-13" value="База данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-14" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-13" target="d3SblMkeDOtAIFovuhBY-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="370" as="sourcePoint" />
+            <mxPoint x="360" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-4" target="d3SblMkeDOtAIFovuhBY-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="360" as="sourcePoint" />
+            <mxPoint x="190" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="290" />
+              <mxPoint x="250" y="340" />
+              <mxPoint x="190" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-16" value="&lt;div&gt;Как работает&amp;nbsp; SEO&lt;/div&gt;&lt;div&gt;поиск&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-19" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-16" target="d3SblMkeDOtAIFovuhBY-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="480" as="sourcePoint" />
+            <mxPoint x="350" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-21" value="&lt;div&gt;HTML&lt;/div&gt;&lt;div&gt;путь воина&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-22" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.46;exitY=-0.047;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-23" target="d3SblMkeDOtAIFovuhBY-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="600" as="sourcePoint" />
+            <mxPoint x="215" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-23" value="&lt;div&gt;Знать теги, &lt;br&gt;&lt;/div&gt;&lt;div&gt;где какие применяются&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-24" value="&lt;div&gt;Знать примерную семантику&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-26" value="&lt;div&gt;Знание по больше&lt;/div&gt;&lt;div&gt;атрибутов у тегов&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-27" value="Что такое формы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-28" value="&lt;div&gt;Работа с head&lt;/div&gt;&lt;div&gt;узнать что такое meta link defer&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-31" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-26" target="d3SblMkeDOtAIFovuhBY-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="710" as="sourcePoint" />
+            <mxPoint x="-130" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-24" target="d3SblMkeDOtAIFovuhBY-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="570" as="sourcePoint" />
+            <mxPoint x="180" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-21" target="d3SblMkeDOtAIFovuhBY-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="590" as="sourcePoint" />
+            <mxPoint x="320" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-21" target="d3SblMkeDOtAIFovuhBY-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="510" as="sourcePoint" />
+            <mxPoint x="400" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-36" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-21" target="d3SblMkeDOtAIFovuhBY-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-400" y="480" as="sourcePoint" />
+            <mxPoint x="-290" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-80" y="440" />
+              <mxPoint x="-400" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-37" value="CSS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-38" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-39" target="d3SblMkeDOtAIFovuhBY-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360" y="1050" as="sourcePoint" />
+            <mxPoint x="-330" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-39" value="&lt;div&gt;Изучить какие стили к чему применяются&lt;/div&gt;&lt;div&gt;Посмотри всякие трюки с n-ми стилями. В ютубе много видосов по этой теме&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="80" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-41" target="d3SblMkeDOtAIFovuhBY-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="1020" as="sourcePoint" />
+            <mxPoint x="-220" y="980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-41" value="Работа с fonts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-42" value="&lt;div&gt;Адаптивность&lt;/div&gt;&lt;div&gt;media-query&lt;/div&gt;&lt;div&gt;flex - grid&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-43" value="&lt;div&gt;Понимание, вложенности&lt;/div&gt;&lt;div&gt;обращения к элементу&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="140" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-44" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-37" target="d3SblMkeDOtAIFovuhBY-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-290" y="940" as="sourcePoint" />
+            <mxPoint x="-120" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-45" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-43" target="d3SblMkeDOtAIFovuhBY-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-510" y="970" as="sourcePoint" />
+            <mxPoint x="-460" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-47" value="&lt;div&gt;Препроцессоры&lt;/div&gt;&lt;div&gt;SASS/SCSS/LESS&lt;/div&gt;&lt;div&gt;и др.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#3333FF;strokeColor=#9673a6;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-48" value="&lt;div&gt;Псевдоклассы,&lt;/div&gt;&lt;div&gt;Vendors&lt;/div&gt;&lt;div&gt;Для поддержки определенных стилей&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="320" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-37" target="d3SblMkeDOtAIFovuhBY-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-290" y="940" as="sourcePoint" />
+            <mxPoint x="-110" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-270" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-51" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-37" target="d3SblMkeDOtAIFovuhBY-52">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-640" y="190" as="sourcePoint" />
+            <mxPoint x="-570" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-52" value="&lt;div&gt;Узнать об @import&lt;/div&gt;&lt;div&gt;@module и др&lt;/div&gt;&lt;div&gt;&amp;nbsp;в CSS&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-57" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-37" target="d3SblMkeDOtAIFovuhBY-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-780" y="400" as="sourcePoint" />
+            <mxPoint x="-720" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-780" y="300" />
+              <mxPoint x="-830" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-58" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-59" target="d3SblMkeDOtAIFovuhBY-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-790" y="630" as="sourcePoint" />
+            <mxPoint x="-740" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-59" value="Выбрать что по душе, понять как их компилировать" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-940" y="675" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-60" value="&lt;div&gt;Понять их структуру, везде по - разному, но принцип один и тот же&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="750" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-61" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-60" target="d3SblMkeDOtAIFovuhBY-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-670" y="650" as="sourcePoint" />
+            <mxPoint x="-620" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-62" value="&lt;div&gt;Узнать о них, в чем их особенность&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-63" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-62" target="d3SblMkeDOtAIFovuhBY-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-910" y="520" as="sourcePoint" />
+            <mxPoint x="-860" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-64" value="Посмотреть гайды, как они работают, написать че-нибудь легкое, поняв принцип" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="620" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-65" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-64" target="d3SblMkeDOtAIFovuhBY-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-600" y="580" as="sourcePoint" />
+            <mxPoint x="-550" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-66" value="Закрепить все практикой, написать какой-нибудь запарный одностроничный сайт" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="200" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-67" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-37" target="d3SblMkeDOtAIFovuhBY-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="270" as="sourcePoint" />
+            <mxPoint x="-210" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-68" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-69" target="d3SblMkeDOtAIFovuhBY-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-430" y="490" as="sourcePoint" />
+            <mxPoint x="-420" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-69" value="Закрепить на практике, 1ой любой проект" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-73" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-75" target="d3SblMkeDOtAIFovuhBY-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-130" y="750" as="sourcePoint" />
+            <mxPoint y="695" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-74" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-76" target="d3SblMkeDOtAIFovuhBY-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="770" as="sourcePoint" />
+            <mxPoint x="80" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-75" value="&lt;div&gt;Изучить table, tbody,&lt;/div&gt;&lt;div&gt;thead,td,tr и все что связанно с таблицами.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-76" value="Сделать простой сайт на семантики, без стилей" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-77" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-78" target="d3SblMkeDOtAIFovuhBY-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="900" as="sourcePoint" />
+            <mxPoint x="-270" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-78" value="&lt;div&gt;Сделай таблицу.&lt;/div&gt;&lt;div&gt;Как изучишь все с таблицами&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-79" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-80" target="d3SblMkeDOtAIFovuhBY-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="750" as="sourcePoint" />
+            <mxPoint x="420" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-80" value="Узнай как работает label. option, datalist, select и все это, что к форме отнести можно" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" vertex="1" parent="1">
+          <mxGeometry x="320" y="710" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-81" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-82" target="d3SblMkeDOtAIFovuhBY-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="870" as="sourcePoint" />
+            <mxPoint x="480" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-82" value="Сделай простые формы, регистрации логина, и всякое такое" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="280" y="850" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-83" value="" style="endArrow=classicThin;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endFill=1;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-7" target="d3SblMkeDOtAIFovuhBY-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="190" as="sourcePoint" />
+            <mxPoint x="900" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-84" value="Все это ведет тебя, к малому знакомству с REST API.&lt;br&gt;Плюс - минус понимание этого тебе нужно лишь понять принцип работы, а позже когда пойдешь уже с js работать увидишь почему это все ну жно" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="1">
+          <mxGeometry x="910" y="160" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-85" value="" style="endArrow=classicThin;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endFill=1;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-10" target="d3SblMkeDOtAIFovuhBY-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="200" as="sourcePoint" />
+            <mxPoint x="810" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-86" value="" style="endArrow=classicThin;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endFill=1;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-11" target="d3SblMkeDOtAIFovuhBY-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="260" as="sourcePoint" />
+            <mxPoint x="850" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-87" value="" style="endArrow=classicThin;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endFill=1;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-13" target="d3SblMkeDOtAIFovuhBY-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="860" y="290" as="sourcePoint" />
+            <mxPoint x="920" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-88" value="" style="endArrow=classicThin;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endFill=1;fillColor=#76608a;strokeColor=#432D57;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-16" target="d3SblMkeDOtAIFovuhBY-84">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="450" as="sourcePoint" />
+            <mxPoint x="970" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-89" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#a0522d;strokeColor=#6D1F00;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-90" target="d3SblMkeDOtAIFovuhBY-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-230" y="660" as="sourcePoint" />
+            <mxPoint x="-180" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-90" value="Возьми простой макет, сделай его структуру только тегами, и соблюдая семантику. Позже, когда к css перейдешь - накинешь стили, как практика" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="480" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-91" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#a0522d;strokeColor=#6D1F00;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-90" target="d3SblMkeDOtAIFovuhBY-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-470" y="580" as="sourcePoint" />
+            <mxPoint x="-420" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-92" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#a0522d;strokeColor=#6D1F00;endFill=1;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-76" target="d3SblMkeDOtAIFovuhBY-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="660" as="sourcePoint" />
+            <mxPoint x="-210" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-93" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-28" target="d3SblMkeDOtAIFovuhBY-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="540" as="sourcePoint" />
+            <mxPoint x="560" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-94" value="Это все взаимо связано, как видишь... просто пример выдаю, везде своя паутина, будь готов к этому..." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" vertex="1" parent="1">
+          <mxGeometry x="630" y="500" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-95" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;fillColor=#fa6800;strokeColor=#C73500;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-94" target="d3SblMkeDOtAIFovuhBY-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="530" as="sourcePoint" />
+            <mxPoint x="560" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-96" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#fad7ac;strokeColor=#b46504;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-98" target="d3SblMkeDOtAIFovuhBY-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-350" y="820" as="sourcePoint" />
+            <mxPoint x="-320" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-97" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#fad7ac;strokeColor=#b46504;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-98" target="d3SblMkeDOtAIFovuhBY-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" y="830" as="sourcePoint" />
+            <mxPoint x="-480" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-98" value="Как изучишь какой-то препроц, перепиши стили для сайта, который ты делал выше, подключая вначале просто верстку, без стилей, потом простые стили, а теперь через препроцессор попробуй написать эти стили, увидишь как тебе легко работать так будет в дальнейшнем" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="780" width="260" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-99" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-98" target="d3SblMkeDOtAIFovuhBY-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" y="1040" as="sourcePoint" />
+            <mxPoint x="-130" y="1190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-450" y="970" />
+              <mxPoint x="-450" y="1010" />
+              <mxPoint x="-450" y="1020" />
+              <mxPoint x="-370" y="1170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-101" value="&lt;div&gt;Вот ты и пришел к этому.&lt;/div&gt;&lt;div&gt;JAVAASCRIPPTTT&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1220" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-103" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fillColor=#cce5ff;strokeColor=#36393d;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-104" target="d3SblMkeDOtAIFovuhBY-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-215" y="1360" as="sourcePoint" />
+            <mxPoint x="-80" y="1250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-104" value="&lt;div&gt;Узнать как объявлять переменные, различие их в&amp;nbsp; js&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-105" value="&lt;div&gt;Что такое функции,&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-106" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-107" target="d3SblMkeDOtAIFovuhBY-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-100" y="1620" as="sourcePoint" />
+            <mxPoint x="-140" y="1620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-107" value="&lt;div&gt;Какие есть функции&lt;/div&gt;&lt;div&gt;и способы их объявления&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="1560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-108" value="Что такое параметры во функциях" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="1690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-109" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-108" target="d3SblMkeDOtAIFovuhBY-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="1780" as="sourcePoint" />
+            <mxPoint x="70" y="1690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-110" value="&lt;div&gt;Чт о такое массив&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-111" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-112" target="d3SblMkeDOtAIFovuhBY-110">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="1620" as="sourcePoint" />
+            <mxPoint x="180" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-112" value="Методы у&amp;nbsp; массива" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-113" value="Что такое объекты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-114" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-115" target="d3SblMkeDOtAIFovuhBY-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="1570" as="sourcePoint" />
+            <mxPoint x="330" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-115" value="Метода объекта" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-116" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#ffff88;strokeColor=#36393d;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-105" target="d3SblMkeDOtAIFovuhBY-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="1390" as="sourcePoint" />
+            <mxPoint x="70" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-117" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-110" target="d3SblMkeDOtAIFovuhBY-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="1400" as="sourcePoint" />
+            <mxPoint x="30" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-118" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-113" target="d3SblMkeDOtAIFovuhBY-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="1410" as="sourcePoint" />
+            <mxPoint x="100" y="1360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-119" value="Изучи, как обращаться через js к html, чтобы получать теги или определенные данные у тега" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1220" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-120" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-119" target="d3SblMkeDOtAIFovuhBY-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="1320" as="sourcePoint" />
+            <mxPoint x="150" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-121" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#bac8d3;strokeColor=#23445d;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-122" target="d3SblMkeDOtAIFovuhBY-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1540" as="sourcePoint" />
+            <mxPoint x="470" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-122" value="&lt;div&gt;Что такое событие - &lt;br&gt;&lt;/div&gt;&lt;div&gt;addEventListener&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-123" value="&lt;div&gt;Что такое дата атрибут - &lt;br&gt;&lt;/div&gt;&lt;div&gt;dataset&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-124" value="&lt;div&gt;Что такое innerHTML&lt;/div&gt;&lt;div&gt;textContent и все эти свойства, чтобы изменить полученный тег&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1110" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-125" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#d0cee2;strokeColor=#56517e;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-123" target="d3SblMkeDOtAIFovuhBY-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="1520" as="sourcePoint" />
+            <mxPoint x="530" y="1470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-126" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-124" target="d3SblMkeDOtAIFovuhBY-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="1480" as="sourcePoint" />
+            <mxPoint x="540" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-127" value="Как менять стили у тегов, которых ты получил" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-128" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#fad9d5;strokeColor=#ae4132;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-127" target="d3SblMkeDOtAIFovuhBY-124">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="1620" as="sourcePoint" />
+            <mxPoint x="700" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-129" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffcccc;strokeColor=#36393d;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-101" target="d3SblMkeDOtAIFovuhBY-130">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="1250" as="sourcePoint" />
+            <mxPoint x="-230" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-130" value="&lt;div&gt;Изучи какие операторы есть у js:&lt;/div&gt;&lt;div&gt;дикремент, инкремент и все в этом духе, там еще есть +=, математические действия, логические операторы&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1240" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-132" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-133" target="d3SblMkeDOtAIFovuhBY-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="1380" as="sourcePoint" />
+            <mxPoint x="180" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-133" value="&lt;div&gt;Какие циклы есть в js. Основа&lt;/div&gt;&lt;div&gt;for&lt;/div&gt;&lt;div&gt;if&lt;/div&gt;&lt;div&gt;do while&lt;/div&gt;&lt;div&gt;while &lt;br&gt;&lt;/div&gt;&lt;div&gt;..etc&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1330" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-134" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-135" target="d3SblMkeDOtAIFovuhBY-133">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="1660" as="sourcePoint" />
+            <mxPoint x="340" y="1610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-135" value="&lt;div&gt;изучи как работают&lt;/div&gt;&lt;div&gt;эти циклы&lt;br&gt;&lt;/div&gt;&lt;div&gt;for of,&lt;/div&gt;&lt;div&gt;for in&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-136" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-137" target="d3SblMkeDOtAIFovuhBY-133">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="1640" as="sourcePoint" />
+            <mxPoint x="420" y="1590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-137" value="&lt;div&gt;Короткая запись if&lt;/div&gt;&lt;div&gt;true ? &#39;da&#39; : &#39;net&#39;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-138" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-101" target="d3SblMkeDOtAIFovuhBY-139">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="1200" as="sourcePoint" />
+            <mxPoint x="170" y="1090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-139" value="Познакомься что такое ES в js" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-140" value="&lt;div&gt;Оттуда, ты узнаешь, &lt;br&gt;&lt;/div&gt;&lt;div&gt;что у них есть версии, и в каждой version есть свои добавления чего-то&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1060" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-141" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-139" target="d3SblMkeDOtAIFovuhBY-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="1050" as="sourcePoint" />
+            <mxPoint x="270" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-142" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-101" target="d3SblMkeDOtAIFovuhBY-143">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="1110" as="sourcePoint" />
+            <mxPoint x="-10" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-143" value="&lt;div&gt;Как импортировать 1 файл js , в другой&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-144" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-143" target="d3SblMkeDOtAIFovuhBY-145">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="1000" as="sourcePoint" />
+            <mxPoint x="110" y="950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-145" value="&lt;div&gt;Узнать что такое export._module&lt;/div&gt;&lt;div&gt;и тому подобное, как эскпортировать функции в другие файлы&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="970" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-146" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.464;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-101" target="d3SblMkeDOtAIFovuhBY-147">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-260" y="1170" as="sourcePoint" />
+            <mxPoint x="-210" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-147" value="Что такое деструктаризация" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-148" value="Познакомься с ООП" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-149" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-147" target="d3SblMkeDOtAIFovuhBY-148">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-300" y="1110" as="sourcePoint" />
+            <mxPoint x="-250" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-151" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-124" target="d3SblMkeDOtAIFovuhBY-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="1370" as="sourcePoint" />
+            <mxPoint x="610" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-152" value="УЗНАТЬ ЧТО ТАКОЕ DOM дерево в js" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-153" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-154" target="d3SblMkeDOtAIFovuhBY-130">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-560" y="1400" as="sourcePoint" />
+            <mxPoint x="-510" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-154" value="Узнай что такое null, NaN, undefined и все такое, в чем их различие?" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-155" value="&lt;div&gt;Различие&lt;/div&gt;&lt;div&gt;var let const&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3SblMkeDOtAIFovuhBY-156" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="d3SblMkeDOtAIFovuhBY-155" target="d3SblMkeDOtAIFovuhBY-104">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360" y="1480" as="sourcePoint" />
+            <mxPoint x="-310" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
