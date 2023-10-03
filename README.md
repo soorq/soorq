@@ -12,9 +12,9 @@ Public Institutions (internal system to manage applications)
 # 🛠 Tech Stack:
 - Javascript (ES6+), Typescript.
 
-- React, Redux, NextJS, GraphQL
+- React, Redux, NextJS 
 
-- NodeJS, Express, Nestjs
+- NodeJS, Express, Nestjs, GraphQL, Jest, WebPack
 
 - MongoDB, PostgresSQL, SQL
 
