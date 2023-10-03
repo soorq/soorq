@@ -7,7 +7,6 @@ I love programming and creating something that matters. I try to be aware of the
 
 ECommerce (online store)
 Retail (internal system to manage the orders from vendors)
-Financial Institutions (internal bank aplication)
 Public Institutions (internal system to manage applications)
 
 # 🛠 Tech Stack:
