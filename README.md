@@ -10,6 +10,8 @@ Retail (internal system to manage the orders from vendors)
 Public Institutions (internal system to manage applications)
 
 # 🛠 Tech Stack:
+- Modeling: Blender, 3DMax
+
 - Javascript (ES6+), Typescript.
 
 - React, Redux, NextJS 
