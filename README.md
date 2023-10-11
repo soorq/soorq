@@ -28,8 +28,17 @@ I love programming and creating something that matters. I try to be aware of the
   * Modeling for Threejs:
     * Blender, 3DMax
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,jquery,vite,webpack,react,redux,nextjs,threejs,styledcomponents,nodejs,nestjs,express,jest,graphql,prisma,mongodb,mysql,postgres,docker,figma,postman&theme=dark)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,blender,codepen)](https://skillicons.dev)
+<datalist>
+ <option>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,jquery,vite,webpack,react,redux,nextjs,threejs,styledcomponents,nodejs,nestjs,express,jest,graphql,prisma,mongodb,mysql,postgres,docker,figma,postman&theme=dark)](https://skillicons.dev)
+ </option>
+ <option>
+  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,blender,codepen)](https://skillicons.dev)
+ </option>
+</datalist>
+
+
+
 
 <div align="center">
 
