@@ -31,7 +31,7 @@ Public Institutions (internal system to manage applications)
     * Blender, 3DMax
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,jquery,react,redux,nextjs,threejs,styledcomponents,nodejs,nestjs,express,jest,graphql,prisma,mongodb,mysql,postgres)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,idea,vite,webpack,blender,codepen,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,idea,vite,webpack,postman,blender,codepen,figma)](https://skillicons.dev)
 
 
 
