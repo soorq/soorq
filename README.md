@@ -8,6 +8,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soorq)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soorq)](https://git.io/streak-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soorq&repo=Front-end_Client-Side)](https://github.com/anuraghazra/github-readme-stats)
+
 I love programming and creating something that matters. I try to be aware of the most trendy and modern Full-Stack technologies and do not stop learning and discovering new features every day.
 
 # 🛠 Tech Stack:
