@@ -41,11 +41,10 @@ I love programming and creating something that matters. I try to be aware of the
 
 
 <div align="center">
-
  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soorq&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soorq&theme=dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soorq&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soorq&theme=dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soorq&theme=dark)
-![GitHub metrics](https://metrics.lecoq.io/soorq)  
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soorq&theme=dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soorq&theme=dark)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soorq&theme=dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soorq&theme=dark)
+ ![GitHub metrics](https://metrics.lecoq.io/soorq)  
 </div>
 
 
