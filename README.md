@@ -1,4 +1,4 @@
-[!HINT] [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%96FADA&lines=Hi,+everyone+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%96FADA&lines=Hi,+everyone+👋)](https://git.io/typing-svg)
 My name is Danil.And I am a Full-Stack developer
 I love programming and creating something that matters. I try to be aware of the most trendy and modern Full-Stack technologies and do not stop learning and discovering new features every day.
 
