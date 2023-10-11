@@ -7,7 +7,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Vk Badge](https://img.shields.io/badge/-danil-blue?style=flat&logo=vk&logoColor=white)](https://www.vk.com/raevmika)&nbsp; [![Vk Badge](https://img.shields.io/badge/-danil-red?style=flat&logo=gmail&logoColor=white)](mailto:karpuhinlox12@gmail.com) [![Tg Badge](https://img.shields.io/badge/-danil-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/soorqdanil)
+- 📫 How to reach me: &nbsp; [![Vk Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://www.vk.com/raevmika)&nbsp; [![Vk Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:karpuhinlox12@gmail.com) [![Tg Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/soorqdanil)
 
 ---
 
