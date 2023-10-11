@@ -30,7 +30,7 @@ Public Institutions (internal system to manage applications)
   * Modeling for Threejs:
     * Blender, 3DMax
 
-[[My Skills](https://skillicons.dev/icons?i=html,css,js,ts)]
+[(https://skillicons.dev/icons?i=html,css,js,ts)]
 
 
 
