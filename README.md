@@ -6,11 +6,7 @@
 
 <!---Для подробной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soorq)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soorq)](https://git.io/streak-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soorq&repo=Front-end_Client-Side)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=soorq)](https://git.io/streak-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soorq&repo=Front-end_Client-Side)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soorq&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soorq&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soorq&theme=solarized_dark)
@@ -42,11 +38,4 @@ I love programming and creating something that matters. I try to be aware of the
     * Blender, 3DMax
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,jquery,vite,webpack,react,redux,nextjs,threejs,styledcomponents,nodejs,nestjs,express,jest,graphql,prisma,mongodb,mysql,postgres,docker,figma,postman&theme=dark)](https://skillicons.dev)
-
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,blender,codepen)](https://skillicons.dev)
-
-
-
-# ⚙️  GitHub Analytics 
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=soorq&show_icons=true&theme=radical)]()
