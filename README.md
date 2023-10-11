@@ -22,16 +22,14 @@ I love programming and creating something that matters. I try to be aware of the
 - Other:
   * Modeling for Threejs:
     * Blender, 3DMax
-   
-    * 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,jquery,vite,webpack,react,redux,nextjs,threejs,styledcomponents,nodejs,nestjs,express,jest,graphql,prisma,mongodb,mysql,postgres,docker,figma,postman&theme=dark)](https://skillicons.dev)
+ 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,jquery,vite,webpack,react,redux,nextjs,threejs,styledcomponents,nodejs,nestjs,express,jest,graphql,prisma,mongodb,mysql,postgres,docker,figma,postman&theme=dark)](https://skillicons.dev)
 
-  [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,blender,codepen)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,blender,codepen)](https://skillicons.dev)
 
 
 <div align="center">
- [![How](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soorq&theme=dark)]
- [![How](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soorq&theme=dark)] ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soorq&theme=dark)
+ [![How](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soorq&theme=dark)](http://loclaf) [![How](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soorq&theme=dark)] ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soorq&theme=dark)
  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soorq&theme=dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soorq&theme=dark)
  ![GitHub metrics](https://metrics.lecoq.io/soorq)  
 </div>
