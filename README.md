@@ -1,6 +1,6 @@
 
 # Hi, everyone 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%53433213&lines=My+name+is+Danil.+And+I+am+a+Full-Stack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%96FADA&lines=My+name+is+Danil.+And+I+am+a+Full-Stack+developer)](https://git.io/typing-svg)
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soorq&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soorq&repo=Front-end_Client-Side)](https://github.com/anuraghazra/github-readme-stats)
 
