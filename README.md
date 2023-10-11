@@ -30,9 +30,9 @@ I love programming and creating something that matters. I try to be aware of the
 
 ![GitHub metrics](https://metrics.lecoq.io/soorq)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soorq&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soorq&repo=Front-end_Client-Side)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soorq&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=soorq&repo=Front-end_Client-Side&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soorq&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soorq&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soorq&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soorq&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soorq&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soorq&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soorq&theme=dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soorq&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soorq&theme=dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soorq&theme=dark)
 
