@@ -1,6 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Hi,+everyone+👋)](https://git.io/typing-svg)
-
-My name is Danil.And I am a Full-Stack developer
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1002&random=true&width=318&height=30&lines=Hi+everyone%F0%9F%91%8B)](https://git.io/typing-svg)
+My name is Danil. And I am a Full-Stack developer
 I love programming and creating something that matters. I try to be aware of the most trendy and modern Full-Stack technologies and do not stop learning and discovering new features every day.
 
 # 🛠 Tech Stack:
