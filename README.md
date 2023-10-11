@@ -2,11 +2,6 @@
 My name is Danil.And I am a Full-Stack developer
 I love programming and creating something that matters. I try to be aware of the most trendy and modern Full-Stack technologies and do not stop learning and discovering new features every day.
 
-
-```html
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-```
-
 # 🛠 Tech Stack:
 - Vanila:
   * HTML
