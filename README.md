@@ -11,9 +11,9 @@ Public Institutions (internal system to manage applications)
 
 # 🛠 Tech Stack:
 - Vanila:
-  * HTML
-  * CSS (SCSS, Tailwind, CSS-in-JS)
-  * Javascript (ES6+), Typescript.
+  * HTML [![HTML](https://skillicons.dev/icons?i=html)]
+  * CSS (SCSS, Tailwind)  [![CSS](https://skillicons.dev/icons?i=css,tailwind)]
+  * Javascript (ES6+), Typescript. [![JS,TS](https://skillicons.dev/icons?i=js,ts)]
 
 - Front-end :
   * React, Redux, NextJS 
@@ -30,7 +30,7 @@ Public Institutions (internal system to manage applications)
   * Modeling for Threejs:
     * Blender, 3DMax
 
-    [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+    
 
 
 
