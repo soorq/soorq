@@ -11,7 +11,7 @@ Public Institutions (internal system to manage applications)
 
 # 🛠 Tech Stack:
 - Vanila:
-  * HTML [![HTML](https://skillicons.dev/icons?i=html)]
+  * HTML (https://skillicons.dev/icons?i=html)
   * CSS (SCSS, Tailwind)  [![CSS](https://skillicons.dev/icons?i=css,tailwind)]
   * Javascript (ES6+), Typescript. [![JS,TS](https://skillicons.dev/icons?i=js,ts)]
 
