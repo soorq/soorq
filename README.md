@@ -94,14 +94,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 	<br />
 	<p>
 		<img src="https://skillicons.dev/icons?i=blender&theme=dark" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-    	<img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-    	<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    	<img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
-    	<img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
-    	<img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-    	<img src="https://skillicons.dev/icons?i=md&theme=dark" title="MD" alt="MD" width="40" height="40"/>&nbsp;
-    	<img src="https://skillicons.dev/icons?i=vite&theme=dark" title="vite" alt="Vite" width="40" height="40"/>&nbsp;
-    	<img src="https://skillicons.dev/icons?i=webpack&theme=dark" title="WebPack" alt="WebPack" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=md&theme=dark" title="MD" alt="MD" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=vite&theme=dark" title="vite" alt="Vite" width="40" height="40"/>&nbsp;
+    		<img src="https://skillicons.dev/icons?i=webpack&theme=dark" title="WebPack" alt="WebPack" width="40" height="40"/>&nbsp;
     </p>
 </details>
 
