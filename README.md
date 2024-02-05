@@ -108,7 +108,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 <p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soorq&theme=2077" alt="profile"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soorq&theme=tokyonight" alt="profile"/>
 	<p align="center">
 		<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soorq&theme=tokyonight" alt="repos"/>
 		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soorq&theme=tokyonight" alt="most-commit"/>
