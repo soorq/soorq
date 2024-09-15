@@ -11,6 +11,20 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+<p align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soorq&theme=tokyonight" alt="profile"/>
+	<p align="center">
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soorq&theme=tokyonight" alt="repos"/>
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soorq&theme=tokyonight" alt="most-commit"/>
+	</p>
+	<p align="center">
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soorq&theme=tokyonight" alt="stats"/>
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soorq&theme=tokyonight&utcOffset=8" alt="productive"/>
+	</p>
+</p>
+
+---
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <details align="center">
@@ -104,22 +118,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     		<img src="https://skillicons.dev/icons?i=webpack&theme=dark" title="WebPack" alt="WebPack" width="40" height="40"/>&nbsp;
     </p>
 </details>
-
----
-
-<p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soorq&theme=tokyonight" alt="profile"/>
-	<p align="center">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soorq&theme=tokyonight" alt="repos"/>
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soorq&theme=tokyonight" alt="most-commit"/>
-	</p>
-	<p align="center">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soorq&theme=tokyonight" alt="stats"/>
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soorq&theme=tokyonight&utcOffset=8" alt="productive"/>
-	</p>
-</p>
-
----
 
 <p align="center">
 	By Soorq
