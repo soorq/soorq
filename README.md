@@ -1,123 +1,68 @@
-# About Me :
+<img src="static/images/cover.png" alt="Borodkin Danil">
 
-<p>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></p>
+# Hi, I'm Danil!
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kazan.
+I'm a freelance Front-End Web Developer.
 
-- 🔭 I’m working as a frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
-- 📫 How to reach me: &nbsp; [![Vk Badge](https://img.shields.io/badge/-vk-blue?style=flat&logo=vk&logoColor=white)](https://www.vk.com/raevmika)&nbsp; [![Vk Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:karpuhinlox12@gmail.com) [![Tg Badge](https://img.shields.io/badge/-telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/soorqdanil)
+My focus is on creative development, the core of my skills can be described as the meeting point between creativity and technical proficiency.
+
+My typical projects involve integrating complex but smooth animations and interactions, to present all the website information in an engaging way and make it a memorable experience.
+
+I strive to deliver projects that are visually compelling by working closely with the designer, but also technically outstanding with a clean and properly structured code. All of this, without forgetting about web performance and technical SEO aspects.
+
+My favorite technologies are based on JAMstack/Composable architecture: while my focus is on front-end development, I can also take care of all other stages of the whole development process, from the CMS configuration to the live deployment on the hosting platform.
+
+<h2 align="center">My Online Presence</h2>
+
+<div align="center">
+
+[![](https://img.shields.io/badge/telegram-FEFE7D?style=for-the-badge&logoColor=0f0f0f&logo=telegram)](https://t.me/soorqdanil/)
+[![](https://img.shields.io/badge/-vk-FEFE7D?style=for-the-badge&logoColor=0f0f0f&logo=vk)](https://www.vk.com/raevmika/)
+[![](https://img.shields.io/badge/-linkedin-FEFE7D?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/soorq/)
+[![](https://img.shields.io/badge/-instagram-FEFE7D?style=for-the-badge&logoColor=0f0f0f&logo=instagram)](https://www.instagram.com/danilkasqt/)
+[![](https://img.shields.io/badge/-gmail-FEFE7D?style=for-the-badge&logoColor=0f0f0f&logo=gmail)](mailto:karpuhinlox12@gmail.com/)
+
+</div>
+
+<h2 align="center">My Techs & Tools</h2>
+
+<div align="center">
+
+![](https://img.shields.io/badge/OS-Linux-FEFE7D?logoColor=ffffff&logo=linux)
+![](https://img.shields.io/badge/Editor-Nivm-FEFE7D?logoColor=ffffff&logo=neovim)
+![](https://img.shields.io/badge/Design-Figma-FEFE7D?logoColor=ffffff&logo=figma)
+![](https://img.shields.io/badge/Code-JavaScript-FEFE7D?logoColor=ffffff&logo=javascript)
+![](https://img.shields.io/badge/Code-TypeScript-FEFE7D?logoColor=ffffff&logo=typescript)
+![](https://img.shields.io/badge/Style-CSS-FEFE7D?logoColor=ffffff&logo=css3)
+![](https://img.shields.io/badge/Style-Sass-FEFE7D?logoColor=ffffff&logo=sass)
+![](https://img.shields.io/badge/Framework-React.js-FEFE7D?logoColor=ffffff&logo=react)
+![](https://img.shields.io/badge/Framework-Next.js-FEFE7D?logoColor=ffffff&logo=next.js)
+![](https://img.shields.io/badge/Lib-Tailwind-FEFE7D?logoColor=ffffff&logo=tailwindcss)
+![](https://img.shields.io/badge/Tool-Bash-FEFE7D?logoColor=ffffff&logo=gnu-bash)
+![](https://img.shields.io/badge/Platform-Docker-FEFE7D?logoColor=ffffff&logo=docker)
+![](https://img.shields.io/badge/Platform-Storyblok-FEFE7D?logoColor=ffffff&logo=storyblok)
+
+</div>
+
+<h2 align="center">My GitHub Stats</h2>
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soorq&count_private=true&show_icons=true&bg_color=1E1A17&title_color=FEFE7D&icon_color=FEFE7D&text_color=dddddd" alt="Stefano Bartoletti's GitHub Stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soorq&show_icons=true&bg_color=1E1A17&title_color=FEFE7D&icon_color=FEFE7D&text_color=dddddd&layout=compact&langs_count=6" alt="Stefano Bartoletti's Top Languages">
+</div>
+
+<h2 align="center">Pin's Projects</h2>
+
+<div align="center">
+
+[![telegram](https://github-readme-stats.vercel.app/api/pin/?username=soorq&repo=nextjs-telegram-mini-apps&bg_color=1E1A17&title_color=FEFE7D&icon_color=FEFE7D&text_color=dddddd)](https://github.com/soorq/nextjs-telegram-mini-apps)
+[![graphql](https://github-readme-stats.vercel.app/api/pin/?username=soorq&repo=nextjs-graphql-tanstack-query&bg_color=1E1A17&title_color=FEFE7D&icon_color=FEFE7D&text_color=dddddd)](https://github.com/soorq/nextjs-graphql-tanstack-query)
+[![ui](https://github-readme-stats.vercel.app/api/pin/?username=soorq&repo=archi-ui&bg_color=1E1A17&title_color=FEFE7D&icon_color=FEFE7D&text_color=dddddd)](https://github.com/soorq/archi-ui)
+[![rmq](https://github-readme-stats.vercel.app/api/pin/?username=soorq&repo=nestjs-rmq-mono&bg_color=1E1A17&title_color=FEFE7D&icon_color=FEFE7D&text_color=dddddd)](https://github.com/soorq/nestjs-rmq-mono)
+
+</div>
 
 ---
-
-<p align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soorq&theme=tokyonight" alt="profile"/>
-	<p align="center">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soorq&theme=tokyonight" alt="repos"/>
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soorq&theme=tokyonight" alt="most-commit"/>
-	</p>
-	<p align="center">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soorq&theme=tokyonight" alt="stats"/>
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soorq&theme=tokyonight&utcOffset=8" alt="productive"/>
-	</p>
-</p>
-
----
-
-### 🛠 &nbsp;Languages and Tools :
-
-<details align="center">
-   <summary>
-   Default - web3
-	</summary>
-	<br />
-	<p>
-		<img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=css&theme=dark"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=sass&theme=dark" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeSript" alt="TypeSript" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=svg&theme=dark" title="svg" alt="svg" width="40" height="40"/>&nbsp;
-	</p>
-</details>
-
-<details align="center">
-   <summary>
-	Front-end
-	</summary>
-	<br />
-	<p>
-		<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="NextJs" alt="Java" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" alt="React" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=redux&theme=dark" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-	</p>
-</details>
-
-<details align="center">
-   <summary>
-	Back-end
-	</summary>
-	<br />
-	<p>
-		<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" title="NodeJs" alt="NodeJs" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=express&theme=dark" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" title="NestJs" alt="NestJs" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=mysql&theme=dark" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDb"  alt="MongoDb" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=graphql&theme=dark" title="GraphQl" alt="GraphQl" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=jest&theme=dark" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=prisma&theme=dark" title="Prisma" alt="Prisma" width="40" height="40"/>&nbsp;
-    </p>
-</details>
-
-<details align="center">
-   <summary>
-	Libs
-	</summary>
-	<br />
-	<p>
-		<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=materialui&theme=dark" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=threejs&theme=dark" title="ThreeJs" alt="ThreeJs" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=styledcomponents&theme=dark" title="StyledComponents" alt="StyledComponents" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=emotion&theme=dark" title="Emotion" alt="Emotion" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=jquery&theme=dark" title="Jquery" alt="Jquery" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=solidjs&theme=dark" title="Solidjs" alt="Solidjs" width="40" height="40"/>&nbsp;
-	</p>
-</details>
-
-<details align="center">
-   <summary>
-	Ide - editor
-	</summary>
-	<br />
-	<p>
-		<img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="Vsc" alt="Vsc" width="40" height="40"/>&nbsp;
-		<img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
-    	<img src="https://skillicons.dev/icons?i=idea&theme=dark" title="Ide" alt="Ide" width="40" height="40"/>&nbsp;
-    </p>
-</details>
-
-<details align="center">
-   <summary>
-	Etc Helpers
-	</summary>
-	<br />
-	<p>
-		<img src="https://skillicons.dev/icons?i=blender&theme=dark" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=postman&theme=dark" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=powershell&theme=dark" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=gcp&theme=dark" title="GCP" alt="GCP" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=figma&theme=dark" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=md&theme=dark" title="MD" alt="MD" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=vite&theme=dark" title="vite" alt="Vite" width="40" height="40"/>&nbsp;
-    		<img src="https://skillicons.dev/icons?i=webpack&theme=dark" title="WebPack" alt="WebPack" width="40" height="40"/>&nbsp;
-    </p>
-</details>
 
 <p align="center">
 	By Soorq
