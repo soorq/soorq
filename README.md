@@ -57,7 +57,6 @@ My favorite technologies are based on JAMstack/Composable architecture: while my
 
 [![telegram](https://github-readme-stats.vercel.app/api/pin/?username=soorq&repo=nextjs-telegram-mini-apps&bg_color=1E1A17&title_color=FEFE7D&icon_color=FEFE7D&text_color=dddddd)](https://github.com/soorq/nextjs-telegram-mini-apps)
 [![graphql](https://github-readme-stats.vercel.app/api/pin/?username=soorq&repo=nextjs-graphql-tanstack-query&bg_color=1E1A17&title_color=FEFE7D&icon_color=FEFE7D&text_color=dddddd)](https://github.com/soorq/nextjs-graphql-tanstack-query)
-[![ui](https://github-readme-stats.vercel.app/api/pin/?username=soorq&repo=archi-ui&bg_color=1E1A17&title_color=FEFE7D&icon_color=FEFE7D&text_color=dddddd)](https://github.com/soorq/archi-ui)
 [![rmq](https://github-readme-stats.vercel.app/api/pin/?username=soorq&repo=nestjs-rmq-mono&bg_color=1E1A17&title_color=FEFE7D&icon_color=FEFE7D&text_color=dddddd)](https://github.com/soorq/nestjs-rmq-mono)
 
 </div>
