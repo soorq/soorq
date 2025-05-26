@@ -41,7 +41,7 @@ My favorite technologies are based on JAMstack/Composable architecture: while my
 ![](https://img.shields.io/badge/Tool-Bash-FEFE7D?logoColor=ffffff&logo=gnu-bash)
 ![](https://img.shields.io/badge/Platform-Docker-FEFE7D?logoColor=ffffff&logo=docker)
 ![](https://img.shields.io/badge/Platform-Storybook-FEFE7D?logoColor=ffffff&logo=storyblok)
-![](https://img.shields.io/badge/Angular-FEFE7D?logoColor=ffffff&logo=angular)
+![](https://img.shields.io/badge/Framework-Angular-FEFE7D?logoColor=ffffff&logo=angular)
 
 </div>
 
