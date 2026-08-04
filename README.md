@@ -1,5 +1,10 @@
 <img src="static/images/cover.png" alt="Borodkin Danil">
 
+[![](https://img.shields.io/badge/telegram-FEFE7D?style=for-the-badge&logoColor=0f0f0f&logo=telegram)](https://t.me/asoorq/)
+[![](https://img.shields.io/badge/-linkedin-FEFE7D?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/soorq/)
+[![](https://img.shields.io/badge/-gmail-FEFE7D?style=for-the-badge&logoColor=0f0f0f&logo=gmail)](mailto:karpuhinlox12@gmail.com/)
+
+
 # Hi, I'm Danil!
 
 I'm a **Full-Stack Engineer** with a front-end heart and a DevOps mind.  
@@ -55,21 +60,12 @@ I work across the entire stack, adapting to the project's needs:
 **Languages**  
 ![](https://img.shields.io/badge/JavaScript-FEFE7D?logoColor=0f0f0f&logo=javascript)
 ![](https://img.shields.io/badge/TypeScript-FEFE7D?logoColor=0f0f0f&logo=typescript)
-![](https://img.shields.io/badge/Go-FEFE7D?logoColor=0f0f0f&logo=go) *(learning/in progress)*
+![](https://img.shields.io/badge/Lua-FEFE7D?logoColor=0f0f0f&logo=lua)
+![](https://img.shields.io/badge/Rust-FEFE7D?logoColor=0f0f0f&logo=rust) *(still learning)*
 
 </div>
 
 ---
-
-<h2 align="center">My Online Presence</h2>
-
-<div align="center">
-
-[![](https://img.shields.io/badge/telegram-FEFE7D?style=for-the-badge&logoColor=0f0f0f&logo=telegram)](https://t.me/asoorq/)
-[![](https://img.shields.io/badge/-linkedin-FEFE7D?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/soorq/)
-[![](https://img.shields.io/badge/-gmail-FEFE7D?style=for-the-badge&logoColor=0f0f0f&logo=gmail)](mailto:karpuhinlox12@gmail.com/)
-
-</div>
 
 <h2 align="center">Tools & Environment</h2>
 
@@ -79,7 +75,7 @@ I work across the entire stack, adapting to the project's needs:
 ![](https://img.shields.io/badge/Editor-Neovim-FEFE7D?logoColor=0f0f0f&logo=neovim)
 ![](https://img.shields.io/badge/Design-Figma-FEFE7D?logoColor=0f0f0f&logo=figma)
 ![](https://img.shields.io/badge/Cloud-AWS-FEFE7D?logoColor=0f0f0f&logo=amazonaws)
-![](https://img.shields.io/badge/Infra-Terraform-FEFE7D?logoColor=0f0f0f&logo=terraform)
+![](https://img.shields.io/badge/Google%20SDK-Cloud-FEFE7D?logoColor=0f0f0f&logo=googlecloud)
 
 </div>
 
@@ -95,5 +91,5 @@ I work across the entire stack, adapting to the project's needs:
 ---
 
 <p align="center">
-	By Soorq — Full-Stack Engineer
+	By Soorq
 </p>
